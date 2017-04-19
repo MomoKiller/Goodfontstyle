@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gg"
+  id="myeclipse.1484125225955"
+  context-root="/gg"
+  j2ee-spec="5.0"
+  archive="gg.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
